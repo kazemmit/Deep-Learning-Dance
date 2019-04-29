@@ -32,7 +32,7 @@ We made our efforts to provide the more useful and state of the art resources in
 Papers
 ************
 
-.. image:: _img/mainpage/article.jpeg
+.. image:: _img/mainpage/article.jpg
 
 This chapter is associated with the papers published in deep learning.
 
