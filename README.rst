@@ -32,11 +32,9 @@ We made our efforts to provide the more useful and state of the art resources in
 Papers
 ************
 
-<p align="center">
-  <img width="460" height="300" src="_img/mainpage/article.jpg">
-</p>
 
-.. image:: _img/mainpage/article.jpg
+.. image:: _img/mainpage/star_5.jpg
+:align: center
 
 This chapter is associated with the papers published in deep learning.
 
