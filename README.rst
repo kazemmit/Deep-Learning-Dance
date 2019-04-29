@@ -763,7 +763,7 @@ Courses
 Books
 ************
 
-.. image:: _img/mainpage/books.jpg
+.. image:: _img/mainpage/books_s.png
 
 * **Deep Learning** by Ian Goodfellow:
   [`Link <http://www.deeplearningbook.org/>`_]
@@ -782,7 +782,7 @@ Books
 Blogs
 ************
 
-.. image:: _img/mainpage/Blogger_icon.png
+.. image:: _img/mainpage/blogs_s.png
 
 * **Colah's blog**:
   [`Link <http://colah.github.io/>`_]
@@ -816,7 +816,7 @@ Blogs
 Tutorials
 ************
 
-.. image:: _img/mainpage/tutorial.png
+.. image:: _img/mainpage/tutorials_s.png
 
 * **Deep Learning Tutorials**:
   [`Link <http://deeplearning.net/tutorial/>`_]
@@ -831,6 +831,8 @@ Tutorials
 ************
 Frameworks
 ************
+
+.. image:: _img/mainpage/frameworks_s.png
 
 * **Tensorflow**:
   [`Link <https://www.tensorflow.org/>`_]
