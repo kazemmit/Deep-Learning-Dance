@@ -34,7 +34,7 @@ Papers
 
 
 .. image:: _img/mainpage/star_5.png
-:align: center
+  :align: center
 
 This chapter is associated with the papers published in deep learning.
 
