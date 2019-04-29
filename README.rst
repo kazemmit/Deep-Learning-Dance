@@ -15,15 +15,17 @@ Table of Contents
 Introduction
 ***************
 
-This repository aims to provide useful resources about deep learning for developers, researcher, and students.
+This repository aims to provide the most useful resources about deep learning for developers, researcher, and students.
 
 ============
 Deep Learning
 ============
 
-Human brain is able to analyze the context of real-world problems in a way that computers isn't. Studies in the field of neural networks to solve these problems using computers started around 1950s. An Artificial Neural Network (ANN) tries to simulate the way human brain works by making a network of artificial neurons in the computers. Therefore, computers are able to solve the real-world problems in the way that human brain does. 
+Human brain is able to analyze the context of real-world problems in a way that computers aren't. Studies in the field of neural networks to solve these problems using computers started around 1950s. An Artificial Neural Network (ANN) tries to simulate the way human brain works by making a network of artificial neurons in the computers. Therefore, computers are able to solve the real-world problems in the way that human brain does. 
 
 Artificial neural networks are good at learning the weights of a single hidden layer networks, therefore they are not able to learn complex features. Unlike ANN, Deep learning is a Neural Network which has a hierarchy of layers, and each layer converts the input data into more abstract representations using some learning algorithms. This new architecture and the learning methods allow this neural network to solve complicated problems.
+
+We made our efforts to provide the more useful and state of the art resources in the field of deep learning, including papers, projects, datasets, frameworks, courses, books, weblogs, toturials, conferences, people, and youtube channels. 
 
 
 ************
