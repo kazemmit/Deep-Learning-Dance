@@ -3,20 +3,6 @@
 Deep Learning Dance
 ###################################################
 
-.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/Deep-Learning-World/pulls
-.. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
-    :target: https://github.com/ellerbrock/open-source-badge/
-.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
-      :target: https://www.python.org/
-.. image:: https://img.shields.io/pypi/l/ansicolortags.svg
-      :target: https://github.com/astorfi/Deep-Learning-World/blob/master/LICENSE
-.. image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
-      :target: https://github.com/astorfi/Deep-Learning-World/graphs/contributors
-.. image:: https://img.shields.io/twitter/follow/amirsinatorfi.svg?label=Follow&style=social
-      :target: https://twitter.com/amirsinatorfi
-
-
 
 ##################
 Table of Contents
@@ -29,38 +15,16 @@ Table of Contents
 Introduction
 ***************
 
-The purpose of this project is to introduce a shortcut to developers and researcher
-for finding useful resources about Deep Learning.
+This repository aims to provide useful resources about deep learning for developers, researcher, and students.
 
 ============
-Motivation
+Deep Learning
 ============
 
-There are different motivations for this open source project.
+Human brain is able to analyze the context of real-world problems in a way that computers isn't. Studies in the field of neural networks to solve these problems using computers started around 1950s. An Artificial Neural Network (ANN) tries to simulate the way human brain works by making a network of artificial neurons in the computers. Therefore, computers are able to solve the real-world problems in the way that human brain does. 
 
-.. --------------------
-.. Why Deep Learning?
-.. --------------------
+Artificial neural networks are good at learning the weights of a single hidden layer networks, therefore they are not able to learn complex features. Unlike ANN, Deep learning is a Neural Network which has a hierarchy of layers, and each layer converts the input data into more abstract representations using some learning algorithms. This new architecture and the learning methods allow this neural network to solve complicated problems.
 
-------------------------------------------------------------
-What's the point of this open source project?
-------------------------------------------------------------
-
-There other similar repositories similar to this repository and are very
-comprehensive and useful and to be honest they made me ponder if there is
-a necessity for this repository!
-
-**The point of this repository is that the resources are being targeted**. The organization
-of the resources is such that the user can easily find the things he/she is looking for.
-We divided the resources to a large number of categories that in the beginning one may
-have a headache!!! However, if someone knows what is being located, it is very easy to find the most related resources.
-Even if someone doesn't know what to look for, in the beginning, the general resources have
-been provided.
-
-
-.. ================================================
-.. How to make the most of this effort
-.. ================================================
 
 ************
 Papers
