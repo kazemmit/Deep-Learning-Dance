@@ -33,7 +33,7 @@ Papers
 ************
 
 
-.. image:: _img/mainpage/papers_s.png
+.. image:: _img/mainpage/papers.png
 
 In this section the most popular and innovative papers in deep learning field are provided. Next to each paper, the link to the paper, and the link associated to the paper's source code (if available) is provided. Also, to make it easeier for reader, these papers are categorized based on the deep learning model type that are related to.
 
@@ -540,7 +540,7 @@ Speech Technology
 Datasets
 ************
 
-.. image:: _img/mainpage/datasets_s.png
+.. image:: _img/mainpage/datasets.png
 
 ====================
 Image
@@ -727,7 +727,7 @@ Speech Technology
 Courses
 ************
 
-.. image:: _img/mainpage/course_s.png
+.. image:: _img/mainpage/course.png
 
 * **Machine Learning** by Stanford on Coursera :
   [`Link <https://www.coursera.org/learn/machine-learning>`_]
@@ -763,7 +763,7 @@ Courses
 Books
 ************
 
-.. image:: _img/mainpage/books_s.png
+.. image:: _img/mainpage/books.png
 
 * **Deep Learning** by Ian Goodfellow:
   [`Link <http://www.deeplearningbook.org/>`_]
@@ -782,7 +782,7 @@ Books
 Blogs
 ************
 
-.. image:: _img/mainpage/blogs_s.png
+.. image:: _img/mainpage/blogs.png
 
 * **Colah's blog**:
   [`Link <http://colah.github.io/>`_]
@@ -816,7 +816,7 @@ Blogs
 Tutorials
 ************
 
-.. image:: _img/mainpage/tutorials_s.png
+.. image:: _img/mainpage/tutorials.png
 
 * **Deep Learning Tutorials**:
   [`Link <http://deeplearning.net/tutorial/>`_]
@@ -832,7 +832,7 @@ Tutorials
 Frameworks
 ************
 
-.. image:: _img/mainpage/frameworks_s.png
+.. image:: _img/mainpage/frameworks.png
 
 * **Tensorflow**:
   [`Link <https://www.tensorflow.org/>`_]
