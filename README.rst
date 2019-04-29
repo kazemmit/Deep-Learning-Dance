@@ -33,7 +33,7 @@ Papers
 ************
 
 
-.. image:: _img/mainpage/arrow.jpg
+.. image:: _img/mainpage/arrow_s.jpg
 
 This chapter is associated with the papers published in deep learning.
 
