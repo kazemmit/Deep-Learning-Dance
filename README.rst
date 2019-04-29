@@ -727,7 +727,7 @@ Speech Technology
 Courses
 ************
 
-.. image:: _img/mainpage/online.png
+.. image:: _img/mainpage/course_s.png
 
 * **Machine Learning** by Stanford on Coursera :
   [`Link <https://www.coursera.org/learn/machine-learning>`_]
