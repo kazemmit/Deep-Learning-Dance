@@ -35,7 +35,7 @@ Papers
 
 .. image:: _img/mainpage/papers_s.png
 
-In this section the most popular and innovative papers in deep learning field are provided. Next to each paper, the link to the paper, and the link associated to the paper's source code is provided. Also, to make it easeier for reader, these papers are categorized based on the deep learning model type that are related to.
+In this section the most popular and innovative papers in deep learning field are provided. Next to each paper, the link to the paper, and the link associated to the paper's source code (if available) is provided. Also, to make it easeier for reader, these papers are categorized based on the deep learning model type that are related to.
 
 ====================
 Models
@@ -539,6 +539,8 @@ Speech Technology
 ************
 Datasets
 ************
+
+.. image:: _img/mainpage/datasets_s.png
 
 ====================
 Image
