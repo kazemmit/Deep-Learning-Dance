@@ -865,6 +865,40 @@ Frameworks
   [`Link <https://deeplearning4j.org/>`_]
 
 
+
+
+************
+People
+************
+
+.. image:: _img/mainpage/people.png
+
+* **Geoffrey Hinton**:
+  [`Link <http://www.cs.toronto.edu/~hinton/>`_]
+
+* **Andrew Ng**:
+  [`Link <https://www.andrewng.org/>`_]
+
+* **David Silver**:
+  [`Link <http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html>`_]
+
+* **Andrej Karpathy**:
+  [`Link <https://cs.stanford.edu/people/karpathy/>`_]
+
+* **Yoshua Bengio**:
+  [`Link <http://www.iro.umontreal.ca/~bengioy/>`_]
+
+* **Tom M. Mitchell**:
+  [`Link <http://www.cs.cmu.edu/~tom/>`_]
+
+* **Yann LeCun**:
+  [`Link <http://yann.lecun.com/>`_]
+
+* **Jürgen Schmidhuber**:
+  [`Link <http://people.idsia.ch/~juergen/>`_]
+
+
+
 ************
 Contributing
 ************
